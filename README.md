@@ -1,3 +1,4 @@
 - Create repository
 - Add new file and make commit
 - Create new folder on my computer and clone the repository
+- Modify files and commit changes
